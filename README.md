@@ -8,3 +8,4 @@ Git is a version control system that prevents us from having "final doc" problem
 
 This is the commit i am not aware of, or one that I have forgotten about.
 
+Git takes snapshots of the entire repository for us to revert back to.
