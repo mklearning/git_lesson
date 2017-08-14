@@ -1,3 +1,3 @@
-#src
+# Src
 
 This folder contains the source code files.
